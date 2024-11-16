@@ -8,6 +8,8 @@ Features :
 
 
 Admin Features:
+
+
 ->Manage student records (add, update, delete).
 ->Create, update, and delete exams.
 ->Set exam duration and scheduling.
@@ -15,14 +17,18 @@ Admin Features:
 
 
 
-Student Features
+Student Features:
+
+
 ->Register and log in to the system.
 ->Take online exams with a timer.
 ->View exam results and performance analytics.
 
 
 
-Core Functionalities
+Core Functionalities:
+
+
 ->Secure authentication for admin and students.
 ->Efficient database management using MySQL.
 ->Dynamic question and answer storage.
@@ -30,7 +36,10 @@ Core Functionalities
 
 
 
-Technologies Used 
+Technologies Used :
+
+
+
 ->Backend: Python
 ->Database: MySQL
 ->Additional Tools: Libraries and frameworks like Tkinter 
